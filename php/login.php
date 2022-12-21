@@ -92,7 +92,10 @@ session_start();
 
     </div>
     <div>
-    <a href="C:\Users\asitayeb\Documents\ClubSportif\php\index.php">page index</a>
+    <a href="http://clubsportif/php/index.php">page index</a>
+    </div>
+    <div>
+    <a href="logout.php">page logout</a>
     </div>
 </body>
 </html>

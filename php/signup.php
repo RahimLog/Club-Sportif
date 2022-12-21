@@ -86,5 +86,11 @@ session_start();
 
         </form>
     </div>
+    <div>
+    <a href="C:\Users\asitayeb\Documents\ClubSportif\php\index.php">page index</a>
+    </div>
+    <div>
+    <a href="C:\Users\asitayeb\Documents\ClubSportif\php\logout.php">page logout</a>
+    </div>
 </body>
 </html>
