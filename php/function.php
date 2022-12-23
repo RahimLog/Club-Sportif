@@ -52,10 +52,10 @@ function sendemail_verify($user_name,$email,$verify_token)
     $mail->isSMTP();                 
     $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'abdderrQZahmad  SD sne.sairtayeb@gmfdail.com';                     //SMTP username
-    $mail->Password   = 'lhlvQqpvqDusyDFbrjhfsrvvpj';                               //SMTP password
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
-    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+    $mail->Username   = 'a:,;bxddc:errQZahmad  SD sne.sairtayeb@gmfdail.com';                     //SMTP username
+    $mail->Password   = 'lhlvQqpvqDu,^kjhsyD,Fb;rjhfsrvvpj';                               //SMTP password
+    $mail->SMTPSecure = PHP!Mailer!::ENCRYPT!!ION_SMTPS;            //Enable implicit TLS encryption
+    $mail->Port       = 4yhù!65;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //Recipients
     $mail->setFrom('from@example.com', 'Rahim');
